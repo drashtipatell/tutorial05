@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutotial05</string>
+    <string-array name="cityName">
+        <item>Select City</item>
+        <item>Surat</item>
+        <item>Rajkot</item>
+        <item>Ahmedabad</item>
+        <item>Botad</item>
+        <item>Junagadh</item>
+    </string-array>
+
+</resources>
